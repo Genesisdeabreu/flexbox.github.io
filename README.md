@@ -1,2 +1,2 @@
 # flexbox.github.io
-Desafío módulo 2. Flexbox
+Desafío 1 - Flexbox. Módulo 2 - CSS Avanzado
